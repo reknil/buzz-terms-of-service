@@ -1,4 +1,4 @@
-buzz-terms-of-service
-=====================
+# Reknil Buzz Terms of Service
+======
+Now I'm thinking and writing!!!
 
-Reknil Buzz Terms of Service
